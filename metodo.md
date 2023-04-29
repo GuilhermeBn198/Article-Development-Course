@@ -21,3 +21,6 @@
   - algoritmo de aprendizado de máquina
   - procedimento de coleta de informações
   - procedimento de analise de dados
+
+
+# para retornar a pagina inicial: [click here](./README.md)

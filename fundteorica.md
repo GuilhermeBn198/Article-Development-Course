@@ -28,3 +28,6 @@
 
 # NÃO FAZER CITAÇÃO LITERAL!
 ## não argumentar com base em autoridades. Usar lógica e dados.
+
+
+# para retornar a pagina inicial: [click here](./README.md)

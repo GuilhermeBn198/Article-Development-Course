@@ -1,6 +1,6 @@
 # Curso de desenvolvimento de artigos científicos para Computação.
 ## Objetivos
-[click here!](./objectives.md)
+[click here!](./objetives.md)
 
 ---
 
@@ -9,9 +9,9 @@
 ## O que é Ciência?
  [click here!](./ciencia.md)
 ## Estrutura de texto científico
- [click here!](./texto.md
+ [click here!](./texto.md)
 ## Dicas preciosas
- [click here!](./dicas.md
+ [click here!](./dicas.md)
 ## fundamentação teórica
  [click here!](./fundteorica.md)
 ## Trabalhos relacionados
@@ -19,4 +19,4 @@
 ## Problemas de pesquisa
  [click here!](./problemasdepesquisa.md)
 ## Metodo
- [click here!](./metodo.md)
+ [click here!](./metodo.md) [click here!](./metodo.md)

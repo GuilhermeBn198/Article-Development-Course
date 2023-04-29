@@ -20,3 +20,6 @@
 ## parafraseie.
 ## não usar apud
 - a não ser que não dê para visualizar o original
+
+
+# para retornar a pagina inicial: [click here](./README.md)

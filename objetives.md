@@ -5,3 +5,5 @@
 - planejar pesquisas com alta probabilidade de sucesso na produção de conclusões confiáveis e generalizáveis.
 - avaliar criticamente o conhecimento cinetifico atual e grau de efetividade de soluções testadas em um estudo.
 - redigir artigos científicos com confor e sentido.
+
+# para retornar a pagina inicial: [click here](./README.md)

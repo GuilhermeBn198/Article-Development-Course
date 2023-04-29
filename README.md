@@ -12,3 +12,7 @@
  [click here!](./texto.md
 ## Dicas preciosas
  [click here!](./dicas.md
+## fundamentação teórica
+ [click here!](./fundteorica.md)
+## Trabalhos relacionados
+ [click here!](./trabalhosrelacionados.md)

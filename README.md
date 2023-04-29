@@ -19,4 +19,6 @@
 ## Problemas de pesquisa
  [click here!](./problemasdepesquisa.md)
 ## Metodo
- [click here!](./metodo.md) [click here!](./metodo.md)
+ [click here!](./metodo.md)
+## Resultados
+ [click here!](./resultados.md)

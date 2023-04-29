@@ -16,3 +16,7 @@
  [click here!](./fundteorica.md)
 ## Trabalhos relacionados
  [click here!](./trabalhosrelacionados.md)
+## Problemas de pesquisa
+ [click here!](./problemasdepesquisa.md)
+## Metodo
+ [click here!](./metodo.md)

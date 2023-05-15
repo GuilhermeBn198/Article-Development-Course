@@ -33,13 +33,13 @@
  ## artigo a ser analisado:
  https://docs.google.com/document/d/1hq7FwecONEjiKBg3WVxKRr4Ls3n6ZhBM/edit?usp=sharing&ouid=100008897815631174283&rtpof=true&sd=true
  ## **1° dia**
- [click here!](./1diaSemanaPesqCien.md)
+ [click here!](./semana_de_pesquisa_cientifica/1diaSemanaPesqCien.md)
  ## **2° dia**
- [click here!](./2diaSemanaPesqCien.md)
+ [click here!](./semana_de_pesquisa_cientifica/2diaSemanaPesqCien.md)
  ## **3° dia**
- [click here!](./3diaSemanaPesqCien.md)
+ [click here!](./semana_de_pesquisa_cientifica/3diaSemanaPesqCien.md)
  ## **4° dia**
- [click here!](./4diaSemanaPesqCien.md)
+ [click here!](./semana_de_pesquisa_cientifica/4diaSemanaPesqCien.md)
  ## **5° dia**
- [click here!](./5diaSemanaPesqCien.md)
+ [click here!](./semana_de_pesquisa_cientifica/5diaSemanaPesqCien.md)
  

@@ -1,5 +1,5 @@
-# primeiro dia da semana de pesquisa científica
-## objetivo principal da saemana da pesquisa científica
+# 1º dia da semana de pesquisa científica
+## objetivo principal da semana da pesquisa científica
 - Publicação de 1 livro sobre "info na edu e Edu em computação"
 - submissão de artigo
 
@@ -9,8 +9,12 @@
 - resultado precisa ser consigo e objetivo, sem firulas.
 - se ja estiver feito o resultado, não altera-lo
 
-##
 
+## trabalho realizado
+- analise de metodo e correção de apresentação do mesmo
 
+### problemas encontrados
+- falta de fundamentação teorica
+- falta de trabalhos relacionados
 
 # para retornar a pagina inicial: [click here](./README.md)

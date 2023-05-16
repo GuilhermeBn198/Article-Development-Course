@@ -30,8 +30,8 @@
  ---
 
  # **semana de pesquisa científica**
- ## artigo a ser analisado:
- https://docs.google.com/document/d/1hq7FwecONEjiKBg3WVxKRr4Ls3n6ZhBM/edit?usp=sharing&ouid=100008897815631174283&rtpof=true&sd=true
+ ## **artigo a ser analisado:**
+ [click here!](https://docs.google.com/document/d/1hq7FwecONEjiKBg3WVxKRr4Ls3n6ZhBM/edit?usp=sharing&ouid=100008897815631174283&rtpof=true&sd=true) 
  ## **1° dia**
  [click here!](./semana_de_pesquisa_cientifica/1diaSemanaPesqCien.md)
  ## **2° dia**
